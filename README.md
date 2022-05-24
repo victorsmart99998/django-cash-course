@@ -1,13 +1,9 @@
 
-  <p align="center">
-    The Definitive Django Learning Platform.
-  </p>
 
 
 
 # Django Crash Course
 
-This repository is the final code for the Django Crash Course found on YouTube and JustDjango.
 
 ---
 
